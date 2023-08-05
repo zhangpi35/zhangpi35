@@ -1,0 +1,5 @@
+int get_max(int x, int y);//<font color = green>
+int main()
+{
+	get_max(a,b);
+}
