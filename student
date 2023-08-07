@@ -1,0 +1,7 @@
+select 
+	name,english 
+from 
+	student 
+where 
+	english >= 80 AND english < 90;
+
