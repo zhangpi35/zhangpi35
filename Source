@@ -1,0 +1,3 @@
+cfg = coder.config('lib');
+cfg.CustomInclude = fullfile(pwd,'mycfiles');
+cfg.CustomSource = fullfile(pwd,'mycfiles','myMult2.c')
