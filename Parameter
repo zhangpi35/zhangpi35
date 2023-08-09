@@ -1,0 +1,3 @@
+CDSBillingSubscriber Parameter Constants 
+connFactory="cds.messaging.billing.TopicConnectionFactory" 
+topicName="cds.messaging.billingTopic" 
